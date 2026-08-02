@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "35ffd292-e089-4bd5-9273-a58251615447")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 115.57 22.86)
+		(size 49.53 66.04)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "150d409b-7425-465c-b56b-3c2eb56e0f0d")
+		(property "Sheetname" "Power"
+			(at 115.57 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 115.57 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "motherboard"
+				(path "/35ffd292-e089-4bd5-9273-a58251615447"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 184.15 25.4)
+		(size 34.29 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c72d0478-d97d-47c0-92e8-6bb9c0fc8305")
+		(property "Sheetname" "Processor"
+			(at 184.15 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "processor.kicad_sch"
+			(at 184.15 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "motherboard"
+				(path "/35ffd292-e089-4bd5-9273-a58251615447"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 22.86)
+		(size 63.5 59.69)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cd9fdbc9-82ef-4f48-84cc-267fb51ffae8")
+		(property "Sheetname" "Connectors"
+			(at 30.48 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 30.48 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "motherboard"
+				(path "/35ffd292-e089-4bd5-9273-a58251615447"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
