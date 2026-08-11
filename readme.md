@@ -17,3 +17,5 @@ https://www.irisoconnectors.com/products/imsa-9466b-38z81-tm
 https://www.te.com/en/product-338696-1.html
 
 https://jlcpcb.com/partdetail/HS-3_2_LCD_LCM/C5143581
+
+https://www.ti.com/lit/ds/symlink/tps5431.pdf
