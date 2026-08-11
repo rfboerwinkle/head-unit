@@ -15,3 +15,5 @@ https://pinoutguide.com/CarAudio/car_audio_iso_pinout.shtml
 https://www.irisoconnectors.com/products/imsa-9466b-38z81-tm
 
 https://www.te.com/en/product-338696-1.html
+
+https://www.ti.com/lit/ds/symlink/tps5431.pdf
